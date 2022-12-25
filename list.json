@@ -4,41 +4,41 @@
 		"title": "Saturnalia",
 	"platform": "Windows",
 		"download": "1.9GB",
-		"links": "https://fitgirl-repacks.site/saturnalia/"
+		"links": ["https://fitgirl-repacks.site/saturnalia/"]
 	},
 	{
 		"image": "Spotify.png",
 		"title": "Spotify",
 		"platform": "Android",
 		"download": "29MB",
-		"links": "https://apkmody.com/apps/spotify-2"
+		"links": ["https://apkmody.com/apps/spotify-2"]
 	},
 	{
 		"image": "Vanced.png",
 		"title": "Youtube Vanced",
 		"platform": "Android",
 		"download": "4.3MB",
-		"links": "https://drive.google.com/file/d/1XzJvQQmecJ6TTO55fBPLkMmlbFgNdHJP/view?usp=share_link"
+		"links": ["https://drive.google.com/file/d/1XzJvQQmecJ6TTO55fBPLkMmlbFgNdHJP/view?usp=share_link"]
 	},
 	{
 		"image": "Chernobylite.jpg",
 		"title": "Chernobylite: Enhanced Deluxe Edition",
 		"platform": "Windows",
 		"download": "24.2GB",
-		"links": "https://fitgirl-repacks.site/chernobylite/"
+		"links": ["https://fitgirl-repacks.site/chernobylite/"]
 	},
 	{
 		"image": "CODMWR.jpg",
 		"title": "Call of Duty: Modern Warfare – Remastered",
 		"platform": "Windows",
 		"download": "26.4GB",
-		"links": "https://fitgirl-repacks.site/call-duty-modern-warfare-remastered-update-2/"
+		"links": ["https://fitgirl-repacks.site/call-duty-modern-warfare-remastered-update-2/"]
 	},
 	{
 		"image": "SlimeRancher2.jpg",
 		"title": "Slime Rancher 2",
 		"platform": "Windows",
 		"download": "880MB",
-		"links": "https://igg-games.com/slime-rancher-2-819319637-free-download.html"
+		"links": ["https://igg-games.com/slime-rancher-2-819319637-free-download.html"]
 	}
 ]
